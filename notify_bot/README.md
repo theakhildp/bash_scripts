@@ -35,7 +35,7 @@ crontab -e
 ./notify_bot.sh  > /path/to/log/ortextfile.log 2>&1 &
 ```
 <strong>OR</strong>
-If you don't want to keep any logs and simply want to discard all output
+If you don't want to keep any logs 
 ```
 ./notify_bot.sh > /dev/null 2>&1 &
 ```
