@@ -8,7 +8,7 @@ Following tools shoud be already installed on the machine:
 - [nuclei](https://github.com/projectdiscovery/nuclei)
 - [notify](https://github.com/projectdiscovery/notify)
 
-### Setting Permissions and configure to run the script on start up 
+### Setting Permissions and configuring to run the script on start up 
 
 > Permissions
 ```
